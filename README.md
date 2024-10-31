@@ -18,36 +18,6 @@ This is pump.fun project on Solana/Ethereum network. Launch a coin that is insta
 - Github repos: 
   - Smart Contract repo: <a href="https://github.com/0xTan1319/Smart-Contract-Pump.fun">Pump.fun-Smart Contract</a>
 
-
-<h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;(Bitcoin)</h3>
-<hr />
-
-This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address.
-<img align="right" height="200px" src="https://github.com/0xTan1319/-MY-Projects-README-/assets/36965207/73b80e83-0e94-48a9-9294-7718f97ec1d9">
-
-BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Get familiar with Ordinal technology(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.
-- Live: <a href="https://bmpbrc.com/">BMP BRC20</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/0xTan1319/BRC20-withdraw-BE">BRC20-Backend</a>
-  - frontend repo: <a href="https://github.com/0xTan1319/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
-
-
-<h3><u><strong><i>Wheel Game</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" height = "250px" src="https://github.com/0xTan1319/-MY-Projects-README-/assets/36965207/6abd89f3-b5c2-4816-861d-971a088d3fd5" >
-
-This is the wheel game by using $TOKE tokens on Solana. The spin result will be randomized fairly - Lost, 1.2X, 1.5X, 2X, Jackpot. Users can get reward as $TOKE tokens.
-
-- Original Link: <a href="https://wheel.mctoken.xyz" target="_blank">Mctoken Wheel</a>
-  - You can Play wheel game on Solana
-  - You can get rewards from it with TOKE
-
-
-- Github repo: 
-  - Wheel Game FE: <a href="https://github.com/0xTan1319/Wheel-Game-FE" target="_blank">BE code</a>
-
- 
 <h3><u><strong><i>Inkubate Marketplace</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
