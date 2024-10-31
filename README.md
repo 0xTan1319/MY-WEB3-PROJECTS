@@ -16,7 +16,7 @@ This is pump.fun project on Solana/Ethereum network. Launch a coin that is insta
 - Live_1: <a href="https://app.ape.lol/">Pump Fun</a>
 - Live_2: <a href="https://fairlaunch.kommunitas.net/">Boilerplate Pump Fun</a>
 - Github repos: 
-  - Smart Contract repo: <a href="https://github.com/0xTan1319/Pump.fun-Smart-Contract">Pump.fun-Smart Contract</a>
+  - Smart Contract repo: <a href="https://github.com/0xTan1319/Smart-Contract-Pump.fun">Pump.fun-Smart Contract</a>
 
 
 <h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;(Bitcoin)</h3>
