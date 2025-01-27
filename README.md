@@ -189,21 +189,6 @@ We’ll also be hosting a charity auction with the winning artwork, allowing the
 
 - Github repo: <a href="https://github.com/dev-tom-0108/nuxt-fox-nft-marketplace" target="_blank">Fox Finance Marketplace</a>
 
-<h3><u><strong><i>Honey Finance</i></strong></u> &nbsp;(Avalanche/Solana)</h3>
-<hr />
-
-<img align="right" height = "150px" src="https://miro.medium.com/max/1000/1*6tTjzXX0Z2oDKoASI2KYTQ.png" >
-
-This is one of the big project, I have built NFT lending/borrowing system on Avalanche/Solana. You can lend and borrow NFT from this site and the price comes from the NFT oracle.
-
-So you deposit this collateral, we see it belongs to collection X so the floor price is Y. We send 70% of Y (assuming the loan to value is 70%) and the loan begins. 
-
-Now two things can happen (already coded in compound). Interest is accumulating, either you pay back the loan + interest and it sends your collateral back, or the loan + interest is too high and it sends it to a liquidation smart contract. 
-
-- Original Link: <a href="https://honey.finance" target="_blank"> Honey Finance </a>
-
-- Github repo: <a href="https://github.com/honey-labs/evm-lend-nft" target="_blank">Honey Finance NFT Lend</a>
-
 
 <h3><u><strong><i>TAC Staking</i></strong></u> &nbsp;(Aurora)</h3>
 <hr />
